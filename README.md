@@ -58,22 +58,30 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 
 ## My Statistics
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=azka13labib-ops&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&theme=github_dark&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azka13labib-ops&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azka13labib-ops&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azka13labib-ops&theme=github_dark" />
 </div>
 
 ---
 
 ## Coding Streak
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=azka13labib-ops&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=azka13labib-ops&theme=github-dark&hide_border=true" />
 </div>
+
+<details>
+  <summary><b>Streak backup</b> (kalau yang atas masih kosong)</summary>
+  <br/>
+  <div align="center">
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=azka13labib-ops&theme=github-dark&hide_border=true" />
+  </div>
+</details>
 
 ---
 
 ## Contribution Graph
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=azka13labib-ops&theme=github-dark&hide_border=true&bg_color=0d1117&height=280" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azka13labib-ops&theme=github_dark" />
 </div>
 
 ---
