@@ -5,7 +5,7 @@ Dummy contact sudah diisi (web/email/ig).
 
 <div align="center">
 
-<h1>AZKA 13 LABIB</h1>
+<h1>AZKA</h1>
 <b>Front-end Developer • UI/UX • Interactive Web</b>
 
 <br/><br/>
