@@ -14,7 +14,7 @@ Edit bagian CONTACT + PROJECTS biar sesuai punyamu.
     <img src="https://img.shields.io/badge/Repositories-View-7C3AED?style=for-the-badge" />
   </a>
   <a href="https://github.com/azka13labib-ops?tab=projects">
-    <img src="https://img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge" />
+    <img src="https://imgb2img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge" />
   </a>
   <a href="https://github.com/azka13labib-ops?tab=stars">
     <img src="https://img.shields.io/badge/Stars-Collection-F59E0B?style=for-the-badge" />
@@ -150,6 +150,17 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=azka13labib-ops" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azka13labib-ops" />
+</div>
+
+<details>
+  <summary><b>Optional</b> (trophies)</summary>
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=azka13labib-ops&row=1&column=6" />
+  </div>
+</details>
 
 ---
 
