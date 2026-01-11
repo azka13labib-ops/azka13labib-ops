@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=AZKA%20LABIB&fontAlign=50&fontAlignY=35&desc=Front-end%20Developer%20%7C%20UI%2FUX&descAlign=50&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=AZKA%20LABIB&fontAlign=50&fontAlignY=35&desc=Front-end%20Developer%20%7C%20UI%2FUX%20Enthusiast&descAlign=50&descAlignY=60" />
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/USERNAME?tab=repositories">Repositories</a> •
+  <a href="https://github.com/USERNAME?tab=projects">Projects</a> •
+  <a href="https://github.com/USERNAME?tab=stars">Stars</a>
+</p>
 
 ---
 
