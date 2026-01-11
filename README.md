@@ -131,7 +131,7 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 
 ---
 
-## My Statistics (Keisi, bukan kotak kosong)
+## My Statistics 
 <div align="center">
 
 <!-- User stats via Shields (lebih stabil daripada card vercel/demolab) -->
@@ -161,7 +161,7 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 
 ---
 
-## Coding Streak (Versi stabil: activity badges)
+## Coding Streak 
 <div align="center">
   <!-- Ini bukan “streak card” berat, tapi tetap menunjukkan ritme kontribusi -->
   <img src="https://img.shields.io/github/commit-activity/w/azka13labib-ops/azka13labib-ops?style=for-the-badge&label=Commits%20(7d)&color=22C55E" />
