@@ -1,3 +1,7 @@
+# =========================
+# FILE: README.md
+# =========================
+
 <!-- MODERN PROFILE README — azka13labib-ops -->
 
 <div align="center">
@@ -6,15 +10,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/azka13labib-ops?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-7C3AED?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/azka13labib-ops?tab=projects">
-    <img src="https://img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/azka13labib-ops">
-    <img src="https://img.shields.io/badge/Profile-Open-F59E0B?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/azka13labib-ops?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View-7C3AED?style=for-the-badge" /></a>
+  <a href="https://github.com/azka13labib-ops?tab=projects"><img src="https://img.shields.io/badge/Projects-Explore-06B6D4?style=for-the-badge" /></a>
+  <a href="https://github.com/azka13labib-ops"><img src="https://img.shields.io/badge/Profile-Open-F59E0B?style=for-the-badge" /></a>
 </div>
 
 ---
@@ -58,30 +56,17 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 
 ## My Statistics
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azka13labib-ops&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azka13labib-ops&theme=github_dark" />
+  <!-- Ini gambar dari repo kamu sendiri (anti-kosong). Akan muncul setelah workflow Metrics selesai jalan. -->
+  <img width="49%" src="./metrics.base.svg" />
+  <img width="49%" src="./metrics.languages.svg" />
 </div>
 
 ---
 
-## Coding Streak
+## Contribution Graph + Coding Streak
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=azka13labib-ops&theme=github-dark&hide_border=true" />
-</div>
-
-<details>
-  <summary><b>Streak backup</b> (kalau yang atas masih kosong)</summary>
-  <br/>
-  <div align="center">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=azka13labib-ops&theme=github-dark&hide_border=true" />
-  </div>
-</details>
-
----
-
-## Contribution Graph
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azka13labib-ops&theme=github_dark" />
+  <!-- Isocalendar plugin menampilkan kalender kontribusi + statistik streak. -->
+  <img width="100%" src="./metrics.isocalendar.svg" />
 </div>
 
 ---
@@ -94,3 +79,60 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" width="100%" />
 </div>
+
+
+# =========================
+# FILE: .github/workflows/metrics.yml
+# =========================
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Base stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: azka13labib-ops
+          template: classic
+          filename: metrics.base.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          config_animations: yes
+
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: azka13labib-ops
+          template: classic
+          filename: metrics.languages.svg
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          config_timezone: Asia/Jakarta
+          config_animations: yes
+
+      - name: Contribution graph + streak (isocalendar)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: azka13labib-ops
+          template: classic
+          filename: metrics.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          config_timezone: Asia/Jakarta
+          config_animations: yes
