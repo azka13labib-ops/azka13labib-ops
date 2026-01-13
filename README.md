@@ -171,10 +171,9 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 
 ---
 
-## Contact (Dummy)
-- Email: hello.azka@example.com
-- Instagram: @azka.uiux
-- Website: https://azka-portfolio.example
+## Contact
+- Email: azka13labib@gmail.com
+- Instagram: @tyfind.azka
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&section=footer" width="100%" />
