@@ -72,7 +72,6 @@ Saya Azka Labib, fokus di **Front-end** dan **UI/UX**. Saya suka bikin tampilan 
 ---
 
 ## Featured Projects
-> Ganti link repo/live kalau beda.
 
 <table>
   <tr>
