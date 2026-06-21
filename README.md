@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C&height=180&section=header" width="100%"/>
 </div>
@@ -10,13 +9,13 @@
 </td>
 <td width="72%">
 
-# Hi, I'm Azka 👋
+# Hi, I'm Azka
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Solo+Builder+%F0%9F%9A%80;Fullstack+Web+%26+Mobile+Developer;Membangun+AZKA+TOP+UP+%26+FlowTask;Selalu+belajar+hal+baru+setiap+hari&font=Fira+Code&center=false&width=440&height=50&color=C77DFF&vCenter=true&size=20&pause=1000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Solo+Builder+dari+Lumajang;Fullstack+Web+%26+Mobile+Developer;Membangun+AZKA+TOP+UP+%26+FlowTask;Selalu+belajar+hal+baru+setiap+hari&font=Fira+Code&center=false&width=440&height=50&color=C77DFF&vCenter=true&size=20&pause=1000"/>
 
 ![Status](https://img.shields.io/badge/Status-Solo%20Builder-3C096C?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-7B2CBF?style=for-the-badge)
-![Lokasi](https://img.shields.io/badge/📍_Lumajang,_Indonesia-3C096C?style=for-the-badge)
+![Lokasi](https://img.shields.io/badge/Lumajang,_Indonesia-3C096C?style=for-the-badge)
 ![Since](https://img.shields.io/badge/Building%20since-2025-7B2CBF?style=for-the-badge)
 
 </td>
@@ -29,24 +28,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 🙋 Tentang Saya
+## About Me
 
 Saya **Azka Labib Abdillah Zain**, fullstack developer dan solo builder dari Lumajang. Saya membangun produk web & mobile dari nol — mulai dari riset kebutuhan, desain, sampai eksekusi kode — tanpa tim, sepenuhnya independen. Fokus saya saat ini adalah menghadirkan platform digital yang relevan untuk pasar Indonesia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 🚀 Sedang Dibangun
+## Currently Building
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 AZKA TOP UP
+### AZKA TOP UP
 Platform top up game online untuk pasar Indonesia.
 
-- 💳 Pembayaran otomatis via Midtrans Payment Gateway
-- 🔗 Integrasi katalog & stok game real-time via Digiflazz
-- 📧 Sistem notifikasi transaksi otomatis lewat email
+- Pembayaran otomatis via Midtrans Payment Gateway
+- Integrasi katalog & stok game real-time via Digiflazz
+- Sistem notifikasi transaksi otomatis lewat email
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -56,13 +55,13 @@ Platform top up game online untuk pasar Indonesia.
 </td>
 <td width="50%" valign="top">
 
-### 📋 FlowTask / Vorxa
+### FlowTask / Vorxa
 Aplikasi produktivitas berbasis Android.
 
-- ✅ Kanban board (To Do, In Progress, Done)
-- 🔐 Login aman via Google OAuth & Supabase Auth
-- 💾 Local caching dengan Room Database
-- ⏱️ Background sync otomatis via WorkManager
+- Kanban board (To Do, In Progress, Done)
+- Login aman via Google OAuth & Supabase Auth
+- Local caching dengan Room Database
+- Background sync otomatis via WorkManager
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
@@ -74,14 +73,14 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 📚 Sedang Dipelajari
+## Currently Learning
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,laravel,kotlin,go,flutter,mysql,postgresql,supabase,git,androidstudio&theme=dark"/>
@@ -91,14 +90,13 @@ Aplikasi produktivitas berbasis Android.
 
 <div align="center">
 
-### 💬
 *"Kode yang baik lahir dari rasa ingin tahu yang nggak pernah berhenti."*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=azka13labib-ops&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1A0033&title_color=C77DFF&icon_color=C77DFF&text_color=ffffff" width="48%"/>
@@ -115,7 +113,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/azka13labib-ops/azka13labib-ops/output/github-contribution-grid-snake.svg" width="100%"/>
@@ -125,7 +123,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
-## 🤝 Mari Terhubung
+## Let's Connect
 
 <div align="center">
 
@@ -139,6 +137,6 @@ Aplikasi produktivitas berbasis Android.
 
 </div>
 
-<p align="center"><sub>🎮 Di luar coding: suka main Roblox & Minecraft, kadang bikin prank receh bareng temen di Discord.</sub></p>
+<p align="center"><sub>Di luar coding: suka main Roblox & Minecraft, kadang bikin prank receh bareng temen di Discord.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C&height=120&section=footer" width="100%"/>
