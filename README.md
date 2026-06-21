@@ -136,6 +136,5 @@ Aplikasi produktivitas berbasis Android.
 
 </div>
 
-<p align="center"><sub>Di luar coding: suka main Roblox & Minecraft, kadang bikin prank receh bareng temen di Discord.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3C096C&height=120&section=footer" width="100%"/>
