@@ -11,7 +11,7 @@
 
 # Hi, I'm Azka
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Solo+Builder+dari+Lumajang;Fullstack+Web+%26+Mobile+Developer;Membangun+AZKA+TOP+UP+%26+FlowTask;Selalu+belajar+hal+baru+setiap+hari&font=Fira+Code&center=false&width=440&height=50&color=C77DFF&vCenter=true&size=20&pause=1000"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+%26+Mobile+Developer;&font=Fira+Code&center=false&width=440&height=50&color=C77DFF&vCenter=true&size=20&pause=1000"/>
 
 ![Status](https://img.shields.io/badge/Status-Solo%20Builder-3C096C?style=for-the-badge)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Work-7B2CBF?style=for-the-badge)
