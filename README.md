@@ -119,7 +119,6 @@ Aplikasi produktivitas berbasis Android.
 <img src="https://raw.githubusercontent.com/azka13labib-ops/azka13labib-ops/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> Animasi ini muncul otomatis setelah file `snake.yml` di-setup lewat GitHub Actions.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3C096C&height=3" width="100%"/>
 
