@@ -13,7 +13,7 @@
 </td>
 <td width="72%">
 
-# Hi, I'm Azka ⛏️
+# Hi, I'm Azka
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+%26+Mobile+Developer;&font=VT323&center=false&width=440&height=50&color=55FF55&vCenter=true&size=28&pause=1000"/>
 
@@ -32,13 +32,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🌍 About Me
+## About Me
 
 Saya **Azka Labib Abdillah Zain**, fullstack developer dan solo builder dari Lumajang. Saya membangun produk web & mobile dari nol — mulai dari riset kebutuhan, desain, sampai eksekusi kode — tanpa tim, sepenuhnya independen. Fokus saya saat ini adalah menghadirkan platform digital yang relevan untuk pasar Indonesia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🏆 Advancements
+## Advancements
 
 <div align="left">
 <img src="https://img.shields.io/badge/Advancement_Made!-Juara_1_Web_Design_Competition-FFAA00?style=for-the-badge&labelColor=1C1C1C"/>
@@ -47,13 +47,13 @@ Saya **Azka Labib Abdillah Zain**, fullstack developer dan solo builder dari Lum
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🛠️ Currently Building
+## Currently Building
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### AZKA TOP UP 💎
+### AZKA TOP UP
 Platform top up game online untuk pasar Indonesia.
 
 - Pembayaran otomatis via Midtrans Payment Gateway
@@ -68,7 +68,7 @@ Platform top up game online untuk pasar Indonesia.
 </td>
 <td width="50%" valign="top">
 
-### FlowTask / Vorxa 📱
+### FlowTask / Vorxa
 Aplikasi produktivitas berbasis Android.
 
 - Kanban board (To Do, In Progress, Done)
@@ -86,14 +86,14 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 📚 Currently Learning
+## Currently Learning
 
 ![Go](https://img.shields.io/badge/Go-55FFFF?style=for-the-badge&labelColor=1C1C1C&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-55FFFF?style=for-the-badge&labelColor=1C1C1C&logo=flutter&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🎒 Tech Stack (Inventory)
+## Tech Stack (Inventory)
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,laravel,kotlin,go,flutter,mysql,postgresql,supabase,git,androidstudio&theme=dark"/>
@@ -101,7 +101,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🪓 Tools
+## Tools
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=postman,github,gcp,git&theme=dark"/>
@@ -117,7 +117,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 📊 Player Stats
+## Player Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=azka13labib-ops&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=55FF55&icon_color=55FFFF&text_color=DDDDDD" width="48%"/>
@@ -134,7 +134,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/azka13labib-ops/azka13labib-ops/output/github-contribution-grid-snake.svg" width="100%"/>
@@ -142,7 +142,7 @@ Aplikasi produktivitas berbasis Android.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
-## 📡 Let's Connect
+## Let's Connect
 
 <div align="center">
 
