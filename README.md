@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B8731&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=180&section=header" width="100%"/>
 </div>
 
 <div align="center">
@@ -158,4 +158,4 @@ Aplikasi produktivitas berbasis Android.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5B8731&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1C1C1C&height=120&section=footer" width="100%"/>
