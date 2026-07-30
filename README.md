@@ -34,7 +34,7 @@
 
 ## About Me
 
-Saya **Azka Labib Abdillah Zain**, fullstack developer dan solo builder dari Lumajang. Saya membangun produk web & mobile dari nol — mulai dari riset kebutuhan, desain, sampai eksekusi kode — tanpa tim, sepenuhnya independen. Fokus saya saat ini adalah menghadirkan platform digital yang relevan untuk pasar Indonesia.
+Saya **Azka Labib Abdillah Zain**, fullstack developer dan solo builder dari Lumajang. Saya membangun produk web & mobile dari nol — mulai dari riset kebutuhan, desain, sampai eksekusi kode — tanpa tim, sepenuhnya independen. Fokus saya saat ini adalah menghadirkan platform digital yang relevan untuk pasar Indonesia
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=866043&height=6" width="100%"/>
 
