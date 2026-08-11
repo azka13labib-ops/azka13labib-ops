@@ -121,11 +121,11 @@ Aplikasi produktivitas berbasis Android.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=azka13labib-ops&show_icons=true&hide_border=true&bg_color=1C1C1C&title_color=44D62C&icon_color=28C9C3&text_color=DDDDDD" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azka13labib-ops&hide_border=true&background=1C1C1C&stroke=6B4728&ring=4E7A27&fire=E6A822&currStreakLabel=44D62C" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=azka13labib-ops&hide_border=true&background=1C1C1C&stroke=6B4728&ring=4E7A27&fire=E6A822&currStreakLabel=44D62C&currStreakNum=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azka13labib-ops&hide_border=true&bg_color=1C1C1C&color=44D62C&line=4E7A27&point=E6A822" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azka13labib-ops&hide_border=true&bg_color=1C1C1C&color=DDDDDD&title_color=44D62C&line=4E7A27&point=E6A822" width="100%"/>
 </div>
 
 <div align="center">
